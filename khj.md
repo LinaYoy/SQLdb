@@ -2,8 +2,7 @@
 
 ## Опсиание
 Эта база данных разработана для хранения информации о Картинной Галерее. База данных содержит таблицы для хранения информации о художниках, картинах, выставках и их расположении.
-
-![](//Screenshots/image.png)
+![Scheme](//Screenshots.image.png)
 
 ### Таблица "Artists" (Художники)
 
@@ -47,3 +46,6 @@ SELECT * FROM Expositions;
 
 Пример вывода записей из таблицы "Paintings":
 SELECT * FROM Paintings;
+
+[def]: //Screenshots/image.png
+[def2]: Screenshot/image.png
